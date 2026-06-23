@@ -1,0 +1,374 @@
+info: syncing channel updates for 1.96.0-x86_64-unknown-linux-gnu
+info: latest update on 2026-05-28 for version 1.96.0 (ac68faa20 2026-05-25)
+info: downloading 6 components
+    Updating crates.io index
+ Downloading crates ...
+  Downloaded cpufeatures v0.2.17
+  Downloaded anstyle-parse v1.0.0
+  Downloaded rustc-hash v1.1.0
+  Downloaded memoffset v0.9.1
+  Downloaded heck v0.5.0
+  Downloaded log v0.4.32
+  Downloaded serde_spanned v0.6.9
+  Downloaded crc32fast v1.5.0
+  Downloaded clap_derive v4.6.1
+  Downloaded wasmtime-wmemcheck v14.0.4
+  Downloaded toml_write v0.1.2
+  Downloaded scopeguard v1.2.0
+  Downloaded wasmtime-types v14.0.4
+  Downloaded wasmtime-versioned-export-macros v14.0.4
+  Downloaded same-file v1.0.6
+  Downloaded wasmtime-component-util v14.0.4
+  Downloaded wasmtime-jit-debug v14.0.4
+  Downloaded wasmtime-asm-macros v14.0.4
+  Downloaded wasmtime-jit-icache-coherence v14.0.4
+  Downloaded wasmtime-fiber v14.0.4
+  Downloaded lazy_static v1.5.0
+  Downloaded thread_local v1.1.9
+  Downloaded utf8parse v0.2.2
+  Downloaded zstd-safe v5.0.2+zstd.1.5.2
+  Downloaded thiserror-impl v1.0.69
+  Downloaded wat v1.252.0
+  Downloaded digest v0.10.7
+  Downloaded zmij v1.0.21
+  Downloaded zstd v0.11.2+zstd.1.5.2
+  Downloaded ppv-lite86 v0.2.21
+  Downloaded wasmtime-jit v14.0.4
+  Downloaded wasm-encoder v0.35.0
+  Downloaded errno v0.3.14
+  Downloaded fxprof-processed-profile v0.6.0
+  Downloaded uuid v1.23.3
+  Downloaded signal-hook v0.3.18
+  Downloaded unicode-ident v1.0.24
+  Downloaded iana-time-zone v0.1.65
+  Downloaded toml_edit v0.22.27
+  Downloaded tracing-core v0.1.36
+  Downloaded parking_lot_core v0.9.12
+  Downloaded crossbeam-utils v0.8.21
+  Downloaded wasmtime-cranelift v14.0.4
+  Downloaded wit-parser v0.12.2
+  Downloaded wasm-encoder v0.252.0
+  Downloaded anyhow v1.0.102
+  Downloaded typenum v1.20.1
+  Downloaded arbitrary v1.4.2
+  Downloaded parking_lot v0.12.5
+  Downloaded proc-macro2 v1.0.106
+  Downloaded bitflags v2.13.0
+  Downloaded rayon-core v1.13.0
+  Downloaded rustix v1.1.4
+  Downloaded num-traits v0.2.19
+  Downloaded cranelift-codegen-meta v0.101.4
+  Downloaded serde_json v1.0.150
+  Downloaded wasmtime-environ v14.0.4
+  Downloaded wast v252.0.0
+  Downloaded wasmtime-runtime v14.0.4
+  Downloaded crossbeam-channel v0.5.15
+  Downloaded indexmap v2.14.0
+  Downloaded winnow v0.7.15
+  Downloaded memchr v2.8.2
+  Downloaded bumpalo v3.20.3
+  Downloaded rustix v0.38.44
+  Downloaded itertools v0.10.5
+  Downloaded tracing-subscriber v0.3.23
+  Downloaded unicode-width v0.2.2
+  Downloaded zerocopy v0.8.52
+  Downloaded syn v2.0.118
+  Downloaded wasmtime v14.0.4
+  Downloaded wasmparser v0.252.0
+  Downloaded hashbrown v0.14.5
+  Downloaded ittapi-sys v0.3.5
+  Downloaded rayon v1.12.0
+  Downloaded cranelift-wasm v0.101.4
+  Downloaded tracing v0.1.44
+  Downloaded clap_builder v4.6.0
+  Downloaded hashbrown v0.17.1
+  Downloaded base64 v0.21.7
+  Downloaded chrono v0.4.45
+  Downloaded cc v1.2.65
+  Downloaded wasmparser v0.115.0
+  Downloaded rand v0.8.6
+  Downloaded gimli v0.28.1
+  Downloaded cpp_demangle v0.3.5
+  Downloaded object v0.32.2
+  Downloaded nix v0.28.0
+  Downloaded jobserver v0.1.34
+  Downloaded clap v4.6.1
+  Downloaded serde v1.0.228
+  Downloaded nu-ansi-term v0.50.3
+  Downloaded getrandom v0.2.17
+  Downloaded serde_core v1.0.228
+  Downloaded paste v1.0.15
+  Downloaded zstd-sys v2.0.16+zstd.1.5.7
+  Downloaded cranelift-frontend v0.101.4
+  Downloaded sharded-slab v0.1.7
+  Downloaded serde_derive v1.0.228
+  Downloaded once_cell v1.21.4
+  Downloaded async-trait v0.1.89
+  Downloaded crossbeam-epoch v0.9.18
+  Downloaded toml v0.5.11
+  Downloaded cranelift-entity v0.101.4
+  Downloaded lock_api v0.4.14
+  Downloaded find-msvc-tools v0.1.9
+  Downloaded autocfg v1.5.1
+  Downloaded either v1.16.0
+  Downloaded cfg-if v1.0.4
+  Downloaded anstyle-query v1.1.5
+  Downloaded fallible-iterator v0.3.0
+  Downloaded crossbeam-deque v0.8.6
+  Downloaded cranelift-bforest v0.101.4
+  Downloaded target-lexicon v0.12.16
+  Downloaded smallvec v1.15.2
+  Downloaded tracing-attributes v0.1.31
+  Downloaded libc v0.2.186
+  Downloaded toml v0.8.23
+  Downloaded pin-project-lite v0.2.17
+  Downloaded wasmtime-component-macro v14.0.4
+  Downloaded walkdir v2.5.0
+  Downloaded semver v1.0.28
+  Downloaded rand_core v0.6.4
+  Downloaded pkg-config v0.3.33
+  Downloaded bincode v1.3.3
+  Downloaded cranelift-codegen v0.101.4
+  Downloaded wasmtime-wit-bindgen v14.0.4
+  Downloaded wasmtime-cache v14.0.4
+  Downloaded thiserror v1.0.69
+  Downloaded directories-next v2.0.0
+  Downloaded cranelift-native v0.101.4
+  Downloaded signal-hook-registry v1.4.8
+  Downloaded sha2 v0.10.9
+  Downloaded generic-array v0.14.7
+  Downloaded tracing-log v0.2.0
+  Downloaded stable_deref_trait v1.2.1
+  Downloaded cranelift-codegen-shared v0.101.4
+  Downloaded rand_chacha v0.3.1
+  Downloaded fxhash v0.2.1
+  Downloaded leb128 v0.2.7
+  Downloaded ittapi v0.3.5
+  Downloaded dirs-sys-next v0.1.2
+  Downloaded colorchoice v1.0.5
+  Downloaded shlex v2.0.1
+  Downloaded debugid v0.8.0
+  Downloaded unicode-xid v0.2.6
+  Downloaded cranelift-control v0.101.4
+  Downloaded cfg_aliases v0.1.1
+  Downloaded slice-group-by v0.3.1
+  Downloaded crypto-common v0.1.7
+  Downloaded version_check v0.9.5
+  Downloaded toml_datetime v0.6.11
+  Downloaded strsim v0.11.1
+  Downloaded sptr v0.3.2
+  Downloaded memfd v0.6.5
+  Downloaded wasmtime-cranelift-shared v14.0.4
+  Downloaded itoa v1.0.18
+  Downloaded block-buffer v0.10.4
+  Downloaded leb128fmt v0.1.0
+  Downloaded regalloc2 v0.9.3
+  Downloaded clap_lex v1.1.0
+  Downloaded wait-timeout v0.2.1
+  Downloaded rustc-demangle v0.1.27
+  Downloaded quote v1.0.45
+  Downloaded equivalent v1.0.2
+  Downloaded byteorder v1.5.0
+  Downloaded id-arena v2.3.0
+  Downloaded hashbrown v0.13.2
+  Downloaded is_terminal_polyfill v1.70.2
+  Downloaded heck v0.4.1
+  Downloaded cranelift-isle v0.101.4
+  Downloaded ahash v0.8.12
+  Downloaded anstream v1.0.0
+  Downloaded anstyle v1.0.14
+  Downloaded addr2line v0.21.0
+  Downloaded linux-raw-sys v0.4.15
+  Downloaded linux-raw-sys v0.12.1
+   Compiling crossbeam-utils v0.8.21
+   Compiling getrandom v0.2.17
+   Compiling rustix v1.1.4
+   Compiling wasmtime-environ v14.0.4
+   Compiling rand_core v0.6.4
+   Compiling memoffset v0.9.1
+   Compiling wasmtime-fiber v14.0.4
+   Compiling ittapi-sys v0.3.5
+   Compiling ppv-lite86 v0.2.21
+   Compiling linux-raw-sys v0.12.1
+   Compiling either v1.16.0
+   Compiling zmij v1.0.21
+   Compiling paste v1.0.15
+   Compiling zstd-safe v5.0.2+zstd.1.5.2
+   Compiling rand_chacha v0.3.1
+   Compiling crossbeam-epoch v0.9.18
+   Compiling zstd-sys v2.0.16+zstd.1.5.7
+   Compiling crypto-common v0.1.7
+   Compiling block-buffer v0.10.4
+   Compiling wasmtime-runtime v14.0.4
+   Compiling wasmtime-asm-macros v14.0.4
+   Compiling serde_json v1.0.150
+   Compiling cpp_demangle v0.3.5
+   Compiling leb128 v0.2.7
+   Compiling rayon-core v1.13.0
+   Compiling leb128fmt v0.1.0
+   Compiling wasm-encoder v0.35.0
+   Compiling wasm-encoder v0.252.0
+   Compiling digest v0.10.7
+   Compiling crossbeam-deque v0.8.6
+   Compiling memfd v0.6.5
+   Compiling rand v0.8.6
+   Compiling itertools v0.10.5
+   Compiling wasmtime-jit-debug v14.0.4
+   Compiling cranelift-native v0.101.4
+   Compiling cranelift-frontend v0.101.4
+   Compiling num-traits v0.2.19
+   Compiling tracing-core v0.1.36
+   Compiling dirs-sys-next v0.1.2
+   Compiling bincode v1.3.3
+   Compiling parking_lot_core v0.9.12
+   Compiling unicode-width v0.2.2
+   Compiling cpufeatures v0.2.17
+   Compiling utf8parse v0.2.2
+   Compiling wasmtime-wmemcheck v14.0.4
+   Compiling sptr v0.3.2
+   Compiling itoa v1.0.18
+   Compiling byteorder v1.5.0
+   Compiling uuid v1.23.3
+   Compiling cfg_aliases v0.1.1
+   Compiling wasmtime-cache v14.0.4
+   Compiling nix v0.28.0
+   Compiling debugid v0.8.0
+   Compiling fxhash v0.2.1
+   Compiling anstyle-parse v1.0.0
+   Compiling sha2 v0.10.9
+   Compiling wast v252.0.0
+   Compiling directories-next v2.0.0
+   Compiling cranelift-wasm v0.101.4
+   Compiling wasmtime-cranelift-shared v14.0.4
+   Compiling zstd v0.11.2+zstd.1.5.2
+   Compiling ittapi v0.3.5
+   Compiling addr2line v0.21.0
+   Compiling wasmtime-jit-icache-coherence v14.0.4
+   Compiling toml v0.5.11
+   Compiling base64 v0.21.7
+   Compiling scopeguard v1.2.0
+   Compiling rustc-demangle v0.1.27
+   Compiling is_terminal_polyfill v1.70.2
+   Compiling anstyle-query v1.1.5
+   Compiling anstyle v1.0.14
+   Compiling colorchoice v1.0.5
+   Compiling wasmtime-jit v14.0.4
+   Compiling anstream v1.0.0
+   Compiling lock_api v0.4.14
+   Compiling rayon v1.12.0
+   Compiling wat v1.252.0
+   Compiling wasmtime-cranelift v14.0.4
+   Compiling fxprof-processed-profile v0.6.0
+   Compiling errno v0.3.14
+   Compiling serde_spanned v0.6.9
+   Compiling toml_datetime v0.6.11
+   Compiling tracing-attributes v0.1.31
+   Compiling async-trait v0.1.89
+   Compiling iana-time-zone v0.1.65
+   Compiling signal-hook v0.3.18
+   Compiling pin-project-lite v0.2.17
+   Compiling lazy_static v1.5.0
+   Compiling strsim v0.11.1
+   Compiling clap_lex v1.1.0
+   Compiling heck v0.5.0
+   Compiling toml_write v0.1.2
+   Compiling winnow v0.7.15
+   Compiling clap_derive v4.6.1
+   Compiling toml_edit v0.22.27
+   Compiling clap_builder v4.6.0
+   Compiling sharded-slab v0.1.7
+   Compiling tracing v0.1.44
+   Compiling chrono v0.4.45
+   Compiling wasmtime v14.0.4
+   Compiling signal-hook-registry v1.4.8
+   Compiling parking_lot v0.12.5
+   Compiling tracing-log v0.2.0
+   Compiling crossbeam-channel v0.5.15
+   Compiling wait-timeout v0.2.1
+   Compiling thread_local v1.1.9
+   Compiling same-file v1.0.6
+   Compiling nu-ansi-term v0.50.3
+   Compiling tracing-subscriber v0.3.23
+   Compiling walkdir v2.5.0
+   Compiling substrate v0.3.0 (/data/agent-zero-repo/usr/workdir/nucleo/substrate)
+   Compiling hal v0.3.0 (/data/agent-zero-repo/usr/workdir/nucleo/hal)
+error[E0432]: unresolved import `std::os::unix::fs::copy`
+   --> substrate/src/branch.rs:193:25
+    |
+193 |                     use std::os::unix::fs::copy;
+    |                         ^^^^^^^^^^^^^^^^^^^^^^^ no `copy` in `os::unix::fs`
+
+warning: unused import: `crate::memory_store::MemoryStore`
+ --> substrate/src/branch.rs:6:5
+  |
+6 | use crate::memory_store::MemoryStore;
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` (part of `#[warn(unused)]`) on by default
+
+warning: unused import: `crate::untrusted::Untrusted`
+ --> substrate/src/branch.rs:7:5
+  |
+7 | use crate::untrusted::Untrusted;
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `std::fs`
+  --> substrate/src/branch.rs:11:5
+   |
+11 | use std::fs;
+   |     ^^^^^^^
+
+warning: unused imports: `getpid` and `getppid`
+ --> substrate/src/process.rs:7:42
+  |
+7 | use nix::unistd::{ForkResult, Pid, fork, getpid, getppid, setpgid};
+  |                                          ^^^^^^  ^^^^^^^
+
+warning: unused import: `BinaryHeap`
+ --> substrate/src/scheduler/semantic.rs:6:24
+  |
+6 | use std::collections::{BinaryHeap, HashMap, VecDeque};
+  |                        ^^^^^^^^^^
+
+warning: unused import: `Arc`
+ --> substrate/src/scheduler/semantic.rs:7:17
+  |
+7 | use std::sync::{Arc, Mutex};
+  |                 ^^^
+
+warning: unused import: `Duration`
+ --> substrate/src/scheduler/semantic.rs:8:17
+  |
+8 | use std::time::{Duration, Instant};
+  |                 ^^^^^^^^
+
+warning: unused import: `Instance`
+ --> substrate/src/wasm_runtime.rs:7:32
+  |
+7 | use wasmtime::{Config, Engine, Instance, Linker, Module, Store};
+  |                                ^^^^^^^^
+
+warning: unused variable: `name`
+   --> substrate/src/wasm_runtime.rs:101:9
+    |
+101 |         name: String,
+    |         ^^^^ help: if this is intentional, prefix it with an underscore: `_name`
+    |
+    = note: `#[warn(unused_variables)]` (part of `#[warn(unused)]`) on by default
+
+warning: unused variable: `version`
+   --> substrate/src/wasm_runtime.rs:102:9
+    |
+102 |         version: String,
+    |         ^^^^^^^ help: if this is intentional, prefix it with an underscore: `_version`
+
+warning: unused variable: `module`
+   --> substrate/src/wasm_runtime.rs:104:13
+    |
+104 |         let module = self.compile(wasm_bytes)?;
+    |             ^^^^^^ help: if this is intentional, prefix it with an underscore: `_module`
+
+For more information about this error, try `rustc --explain E0432`.
+warning: `substrate` (lib) generated 11 warnings
+error: could not compile `substrate` (lib) due to 1 previous error; 11 warnings emitted
+warning: build failed, waiting for other jobs to finish...
