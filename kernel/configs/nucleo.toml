@@ -1,0 +1,8 @@
+[limits]
+max_agents = 100
+max_memory_mb = 512
+max_file_descriptors = 1024
+
+work_dir = "."
+
+checkpoint_interval_secs = 30
