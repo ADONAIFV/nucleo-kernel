@@ -1,9 +1,0 @@
-target/
-*.log
-*.checkpoint
-*.wal
-kernel_data/
-nucleo-cli/target/
-nucleo.wal
-nucleo.checkpoint
-Cargo.lock
